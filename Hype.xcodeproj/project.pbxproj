@@ -192,7 +192,6 @@
 				TargetAttributes = {
 					862DC2D41BD0ECFD00FF2C5D = {
 						CreatedOnToolsVersion = 7.0.1;
-						DevelopmentTeam = JR67764B49;
 						LastSwiftMigration = 0800;
 					};
 					862DC2E81BD0ECFE00FF2C5D = {
@@ -404,6 +403,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Hype/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.Hype;
@@ -416,6 +416,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Hype/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.Hype;
